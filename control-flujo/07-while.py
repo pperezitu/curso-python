@@ -4,6 +4,8 @@
 #     numero *= 2
 
 
+# comentario random!
+
 comando = ''
 while comando != 'salir':
     comando = input('$ ')
